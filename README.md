@@ -39,8 +39,8 @@ To run this analysis locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/diwali_sales_analysis.git](https://github.com/your-username/diwali_sales_analysis.git)
-    cd diwali_sales_analysis
+    git clone [https://github.com/navneetjoshi422-analyst/diwali-sales-analysis.git](https://github.com/navneetjoshi422-analyst/diwali-sales-analysis.git)
+    cd diwali-sales-analysis
     ```
 
 2.  **Install the required dependencies:**
@@ -54,7 +54,7 @@ To run this analysis locally, follow these steps:
     ```bash
     jupyter notebook
     ```
-    Open the `diwali_sales_analysis.ipynb` file and execute the cells sequentially.
+    Open the `diwali-sales.ipynb` file and execute the cells sequentially.
 
 ---
 *Feel free to explore the notebook for detailed visualizations and code!*
